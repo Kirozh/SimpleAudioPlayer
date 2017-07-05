@@ -1,2 +1,2 @@
-# FakePlayer
+# AudioPlayer
 simple audio player
