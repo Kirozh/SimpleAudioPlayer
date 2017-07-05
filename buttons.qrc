@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>buttons/icon2.png</file>
+        <file>buttons/icon2_1.png</file>
+        <file>buttons/icon2_1_br.png</file>
+        <file>buttons/icon2_br.png</file>
+        <file>buttons/icon3.png</file>
+        <file>buttons/icon3_br.png</file>
+        <file>buttons/next_blue.png</file>
+        <file>buttons/next_white.png</file>
+        <file>buttons/pause_blue.png</file>
+        <file>buttons/pause_white.png</file>
+        <file>buttons/play_blue.png</file>
+        <file>buttons/play_white.png</file>
+        <file>buttons/prev_blue.png</file>
+        <file>buttons/prev_white.png</file>
+        <file>buttons/repeat_blue.png</file>
+        <file>buttons/repeat_white.png</file>
+        <file>buttons/sound_blue.png</file>
+        <file>buttons/sound_white.png</file>
+        <file>buttons/stop_blue.png</file>
+        <file>buttons/stop_white.png</file>
+        <file>buttons/icon1.png</file>
+        <file>buttons/icon1_br.png</file>
+        <file>buttons/menu_blue.png</file>
+        <file>buttons/menu_white.png</file>
+        <file>buttons/mute_blue.png</file>
+        <file>buttons/mute_white.png</file>
+        <file>buttons/k.png</file>
+        <file>buttons/loop_blue.png</file>
+        <file>buttons/loop_white.png</file>
+    </qresource>
+</RCC>
